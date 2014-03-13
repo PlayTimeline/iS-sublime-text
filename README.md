@@ -4,6 +4,8 @@
 
 #my packages
 * git clone https://github.com/buymeasoda/soda-theme/ "Theme - Soda"
+* git clone https://github.com/BoundInCode/AutoFileName.git AutoFileName
+* git clone https://github.com/wbond/sublime_alignment.git Alignment
 * git clone git://github.com/jashkenas/coffee-script-tmbundle CoffeeScript
 * git clone https://github.com/miksago/jade-tmbundle Jade
 * git clone https://github.com/billymoon/Stylus Stylus
