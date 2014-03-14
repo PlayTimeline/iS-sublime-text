@@ -1,8 +1,5 @@
 {
-	"ignored_packages":
-	[
-		"Vintage"
-	],
+	"ignored_packages": ["Vintage"],
 	"color_scheme": "Packages/User/Monokai Soda.tmTheme",
 	"theme": "Soda Dark.sublime-theme",
 	"soda_classic_tabs": true,
@@ -10,12 +7,18 @@
 	"font_face": "Source Code Pro Semibold",
 	"font_options": ["directwrite"],
 	"font_size": 10,
+	"caret_style": "phase",
+	"draw_white_space": "all",
 	"highlight_line": true,
-	"match_brackets_angle": true,
-	"trim_trailing_white_space_on_save": true,
 	"highlight_modified_tabs": true,
+	"match_brackets_angle": true,
+	"match_brackets_square": true,
+	"match_brackets_braces": true,
+	"always_prompt_for_file_reload": true,
 	"bold_folder_labels": true,
 	"show_encoding": true,
 	"show_line_endings": true,
-	"always_prompt_for_file_reload": true
+	"save_on_focus_lost": true,
+	"trim_trailing_white_space_on_save": true,
+	"move_to_limit_on_up_down": true
 }
