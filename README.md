@@ -10,6 +10,7 @@
 * git clone https://github.com/miksago/jade-tmbundle Jade
 * git clone https://github.com/billymoon/Stylus Stylus
 * git clone https://github.com/tanepiper/SublimeText-Nodejs Nodejs
+* git clone https://github.com/aziz/PlainTasks PlainTasks
 
 #colour-schemes
 * Espresso Soda.tmTheme
