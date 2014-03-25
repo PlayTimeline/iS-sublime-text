@@ -16,7 +16,9 @@ Ctrl + K, Ctrl + L
 ###注释
 Ctrl + /
 Ctrl + Alt + /
-
+###分屏
+Alt + Shift + 1
+Alt + Shift + 2
 
 ##搜索
 Ctrl + F && (Enter || Shift + Enter) || Ctrl + Enter
