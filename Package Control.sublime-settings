@@ -1,0 +1,16 @@
+{
+	"installed_packages":
+	[
+		"coffee-script-tmbundle",
+		"Backbone.js",
+		"Jade",
+		"Stylus",
+		"PlainTasks",
+		"Theme - Soda",
+		"Twitter Bootstrap Snippets"
+	],
+	"repositories":
+	[
+		"https://github.com/jashkenas/coffee-script-tmbundle.git"
+	]
+}
